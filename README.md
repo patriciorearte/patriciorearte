@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hola Soy Patrico 👋
 
-<!--
-**patriciorearte/patriciorearte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙋‍♀️ Estudio la Tecnicatura en programacion en la Universidad Nacional de Hurlingham
+- 👩‍💻 Desarrolladora web Trainee
+- ⚡ Tengo 23 años
 
-Here are some ideas to get you started:
+## Habilidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend: 
+- Html5
+- Css
+- conocimientos básicos javaScript
+- Bootstrap
+
+
+### Backend:
+- Node.js
+- conocimientos básicos Java
+
+
+### Databases:
+- Sql server 
+- MariaDB
+- PostMan
+
+### Enlaces de interes:
+
+<div>
+  <a href="https://www.linkedin.com/in/patricio-rearte-56818a1b2/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+  </a>
+</div>
+
