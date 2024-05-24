@@ -2,7 +2,7 @@
 
 - 🙋‍♀️ Estudio la Tecnicatura en programacion en la Universidad Nacional de Hurlingham
 - 👩‍💻 Desarrollador web Junior
-- ⚡ Tengo 4 años
+- ⚡ Tengo 24 años
 
 ## Habilidades:
 
