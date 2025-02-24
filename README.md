@@ -1,10 +1,15 @@
 ### Hola Soy Patrico 👋
 
 - 🙋‍♀️ Estudio la Tecnicatura en programacion en la Universidad Nacional de Hurlingham
-- 👩‍💻 Desarrollador web Junior
-- ⚡ Tengo 24 años
+- 👩‍💻 Desarrollador web (full stack) Junior
+- ⚡ Tengo 25 años
 
-## Habilidades:
+## Habilidades Blandas:
+- Comunicación efectiva
+- Escucha activa
+- Trabajo en equipo
+- Gestión del tiempo
+- Empatía
 
 ### Frontend: 
 - Html5
@@ -16,7 +21,7 @@
 
 ### Backend:
 - Node.js
-- 
+  
 
 
 ### Databases:
