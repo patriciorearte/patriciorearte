@@ -9,17 +9,17 @@
 ### Frontend: 
 - Html5
 - Css
-- conocimientos básicos javaScript
+- javaScript
 - Bootstrap
+- React
 
 
 ### Backend:
 - Node.js
-- conocimientos básicos Java
+- 
 
 
 ### Databases:
-- Sql server 
 - MariaDB
 - PostMan
 
