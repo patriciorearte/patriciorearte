@@ -1,6 +1,6 @@
 ### Hola Soy Patrico 👋
 
-- 🙋‍♀️ Estudio la Tecnicatura en programacion en la Universidad Nacional de Hurlingham
+- 🙋‍♀️ Graduado en tecnicatura en programacion en la Universidad Nacional de Hurlingham
 - 👩‍💻 Desarrollador web (full stack) Junior
 - ⚡ Tengo 25 años
 
